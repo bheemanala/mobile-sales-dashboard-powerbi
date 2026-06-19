@@ -41,4 +41,4 @@ This project is an interactive Power BI dashboard designed to analyze mobile sal
 ## Author
 **Gangadhar Bheemanala**
 
-LinkedIn: www.linkedin.com/in/gangadhar-bheemanala-05b82a282
+LinkedIn: https://www.linkedin.com/in/bheemanala/
