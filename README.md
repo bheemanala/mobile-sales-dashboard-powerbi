@@ -21,7 +21,7 @@ This project is an interactive Power BI dashboard designed to analyze mobile sal
 - Data Visualization
 
 ## Dashboard Preview
-![Mobile Sales Dashboard](<img width="902" height="507" alt="Mobile Sales Dashboard" src="https://github.com/user-attachments/assets/19ca6934-96b8-4c80-aa72-ca991cb1c86c" />
+(<img width="902" height="507" alt="Mobile Sales Dashboard" src="https://github.com/user-attachments/assets/19ca6934-96b8-4c80-aa72-ca991cb1c86c" />
 )
 
 ## Key Insights
