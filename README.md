@@ -31,9 +31,6 @@ This project is an interactive Power BI dashboard designed to analyze mobile sal
 - Examined transaction patterns based on payment methods.
 - Evaluated top-performing mobile models.
 
-## Learning Source
-This project was built by applying concepts learned from the **Skill Course Power BI Series by Satish Dhawale**.
-
 ## Skills Gained
 - Data Cleaning and Transformation
 - DAX Measure Creation
